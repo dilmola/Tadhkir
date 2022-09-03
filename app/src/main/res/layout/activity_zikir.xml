@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ZikirActivity"
+
+    >
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Zikir"
+        android:textSize="20dp"
+        android:textColor="@color/black"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="22dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="22dp"
+                android:layout_marginBottom="22dp"
+                app:cardCornerRadius="20dp"
+                app:cardMaxElevation="10dp"
+                >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="290dp"
+                    android:background="@color/statusbarcolor"
+                    android:orientation="vertical"
+                    >
+
+
+                    <TextView
+                        android:id="@+id/zikir1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="12dp"
+                        android:text="Zikir"
+                        android:textSize="15dp"
+                        android:textColor="@color/black"/>
+
+                    <TextView
+                        android:id="@+id/zikir1.1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/orangefade"
+                        android:padding="8dp"
+                        android:text="ٍأَسْتَغْفِرُ اللهَ وَأَتُوْبُ إِلَيْهِ"
+                        android:textSize="28dp"
+                        android:textColor="@color/black"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/zikir1.2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/orangefade"
+                        android:padding="8dp"
+                        android:text="(Recite 100x everyday)"
+                        android:textSize="10dp"
+                        android:textColor="@color/black"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/zikir1.3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/orangefade"
+                        android:padding="8dp"
+                        android:text="\n“I seek Allah's forgiveness and I turn to Him in repentance.”"
+                        android:textSize="15dp"
+                        android:textColor="@color/black"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/zikir1.4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/orangefade"
+                        android:padding="8dp"
+                        android:text="\nNarrated by Bukhari, Fathul Bari XI/101 and Muslim no. 2702."
+                        android:textSize="15dp"
+                        android:textColor="@color/black"
+
+                        />
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="22dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="22dp"
+                android:layout_marginBottom="22dp"
+                app:cardCornerRadius="20dp"
+                app:cardMaxElevation="10dp"
+                >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="290dp"
+                    android:background="@color/statusbarcolor"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/zikir2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="12dp"
+                        android:text="Zikir 2"
+                        android:textSize="15dp"
+                        android:textColor="@color/black"/>
+
+                    <TextView
+                        android:id="@+id/zikir2.1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/orangefade"
+                        android:padding="8dp"
+                        android:text="سُبْحَانَ اللهِ وَبِحَمْدِهِ"
+                        android:textSize="28dp"
+                        android:textColor="@color/black"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/zikir2.2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/orangefade"
+                        android:padding="8dp"
+                        android:text="(Recite 100x in the morning and evening)"
+                        android:textSize="10dp"
+                        android:textColor="@color/black"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/zikir2.3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/orangefade"
+                        android:padding="8dp"
+                        android:text="\n““How perfect Allah is and I praise Him.””"
+                        android:textSize="15dp"
+                        android:textColor="@color/black"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/zikir2.4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/orangefade"
+                        android:padding="8dp"
+                        android:text="\nNarrated by Muslim no. 2691 and no. 2692, from Abu Hurairah RA. Syarah Muslim XVII/17-18, Shahih At-Targhib wa At-Tarhib: 1/413 no. 653."
+                        android:textSize="15dp"
+                        android:textColor="@color/black"
+
+                        />
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="22dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="22dp"
+                android:layout_marginBottom="22dp"
+                app:cardCornerRadius="20dp"
+                app:cardMaxElevation="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="390dp"
+                    android:background="@color/statusbarcolor"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/zikir3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="12dp"
+                        android:text="Zikir 3"
+                        android:textSize="15dp"
+                        android:textColor="@color/black"/>
+
+                    <TextView
+                        android:id="@+id/zikir3.1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/orangefade"
+                        android:padding="8dp"
+                        android:text="َللَّهُمَّ إِنِّيْ أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلاً مُتَقَبَّلاًِ"
+                        android:textSize="28dp"
+                        android:textColor="@color/black"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/zikir3.2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/orangefade"
+                        android:padding="8dp"
+                        android:text="(Recite 1x in the morning)"
+                        android:textSize="10dp"
+                        android:textColor="@color/black"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/zikir3.3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/orangefade"
+                        android:padding="8dp"
+                        android:text="\n“O Allah, I ask You for knowledge which is beneficial and sustenance which is good, and deeds which are acceptable.”"
+                        android:textSize="15dp"
+                        android:textColor="@color/black"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/zikir3.4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/orangefade"
+                        android:padding="8dp"
+                        android:text="\nNarrated by Ibnu Majah no. 925, Sahih Ibnu Majah: 1/152 no. 753 Ibnu Sunni in 'Amal al-Yawm wa al-Lailah no. 54, 110, and Ahmad VI/294, 305, 318, 322. From Ummu Salamah, sahih."
+                        android:textSize="15dp"
+                        android:textColor="@color/black"
+
+                        />
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</RelativeLayout>

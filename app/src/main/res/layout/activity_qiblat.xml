@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".QiblatActivity">
+
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/back_button"
+        android:background="@drawable/background_bg" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/compass"
+        android:layout_below="@+id/back_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp"
+        android:layout_marginBottom="90dp"
+        android:text="Qiblat"
+        android:textColor="@color/black"
+        android:textSize="30dp" />
+
+    <ImageButton
+        android:id="@+id/back_button"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:background="@android:color/transparent"
+        android:padding="10dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/back_button"
+
+        />
+
+    <ImageView
+        android:id="@+id/compass"
+        android:layout_width="320dp"
+        android:layout_height="320dp"
+        android:layout_centerInParent="true"
+        android:contentDescription="Compass Dial"
+        android:src="@drawable/qiblat" />
+
+
+</RelativeLayout>

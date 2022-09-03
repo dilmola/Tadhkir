@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".MosqueLocationActivity">
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_bg_map" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="10dp"
+
+        android:gravity="center"
+        android:text="Mosque Location"
+        android:textColor="@color/black"
+        android:textSize="30dp" />
+
+    <fragment
+        android:id="@+id/google_map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/back_button"
+        android:layout_marginTop="0dp" />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:layout_marginStart="340dp"
+        android:layout_marginTop="491dp"
+        android:layout_alignParentRight="true"
+
+        android:src="@drawable/ic_baseline_location_searching_24"
+        app:backgroundTint="@color/statusbarcolor" />
+
+    <ImageButton
+        android:id="@+id/back_button"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:background="@android:color/transparent"
+        android:padding="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/back_button"
+        app:srcCompat="@drawable/back_button" />
+
+
+</RelativeLayout>

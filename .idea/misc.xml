@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eidie/Desktop/New folder (2)/TadhkirApp (Ubi project source code)- last update/TadhkirApp/app/src/main/res/layout/activity_doa.xml" value="0.371875" />
+        <entry key="..\:/Users/eidie/Desktop/New folder (2)/TadhkirApp (Ubi project source code)- last update/TadhkirApp/app/src/main/res/layout/activity_doa_zikir.xml" value="0.371875" />
+        <entry key="..\:/Users/eidie/Desktop/New folder (2)/TadhkirApp (Ubi project source code)- last update/TadhkirApp/app/src/main/res/layout/activity_login.xml" value="0.371875" />
+        <entry key="..\:/Users/eidie/Desktop/New folder (2)/TadhkirApp (Ubi project source code)- last update/TadhkirApp/app/src/main/res/layout/activity_mainpage.xml" value="0.371875" />
+        <entry key="..\:/Users/eidie/Desktop/New folder (2)/TadhkirApp (Ubi project source code)- last update/TadhkirApp/app/src/main/res/layout/activity_prayer_times.xml" value="0.371875" />
+        <entry key="..\:/Users/eidie/Desktop/New folder (2)/TadhkirApp (Ubi project source code)- last update/TadhkirApp/app/src/main/res/layout/activity_qiblat.xml" value="0.371875" />
+        <entry key="..\:/Users/eidie/Desktop/New folder (2)/TadhkirApp (Ubi project source code)- last update/TadhkirApp/app/src/main/res/layout/activity_start.xml" value="0.371875" />
+        <entry key="..\:/Users/eidie/Desktop/New folder (2)/TadhkirApp (Ubi project source code)- last update/TadhkirApp/app/src/main/res/layout/activity_tasbih_counter.xml" value="0.371875" />
+        <entry key="..\:/Users/eidie/Desktop/New folder (2)/TadhkirApp (Ubi project source code)- last update/TadhkirApp/app/src/main/res/layout/activity_zikir.xml" value="0.371875" />
+        <entry key="..\:/Users/eidie/Desktop/New folder (2)/TadhkirApp (Ubi project source code)/TadhkirApp/app/src/main/res/layout/activity_mosque_location.xml" value="0.18085106382978725" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp - Copy/app/src/main/res/drawable/bg_menu.xml" value="0.23125" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp - Copy/app/src/main/res/drawable/black_button.xml" value="0.23125" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp - Copy/app/src/main/res/drawable/buttonbg.xml" value="0.23125" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp - Copy/app/src/main/res/drawable/custom_button.xml" value="0.23125" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp - Copy/app/src/main/res/layout/activity_login.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/background_bg.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/background_bg_allcorners.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/background_bg_allcorners_left.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/background_bg_allcorners_right.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/background_bg_map.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/bg_menu.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/black_button.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/buttonbg.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/custom_button.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/editbox_bg.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/edittextgrey.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/ic_baseline_location_searching_24.xml" value="0.29270833333333335" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/drawable/text_style.xml" value="0.2890625" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_doa.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_doa_zikir.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_lru_bitmap_cache.xml" value="0.2875" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_mainpage.xml" value="0.33" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_mosque_location.xml" value="0.22" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_prayer_times.xml" value="0.25" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_qiblat.xml" value="0.2947916666666667" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_sign_up.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_start.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_tasbih_counter.xml" value="0.18" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/activity_zikir.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/layout/fragment_mosque_location_activity_2.xml" value="0.21" />
+        <entry key="..\:/Users/eidie/Desktop/TadkhirApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20260416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
